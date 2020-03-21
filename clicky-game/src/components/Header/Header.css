@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Futurama Bold Font";
+  src: url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.eot");
+  src: url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.svg#Futurama Bold Font")
+      format("svg");
+}
+* {
+  font-family: "Futurama Bold Font";
+}
+
+#header {
+  align-items: center;
+  padding: 10px;
+  /* font-size: 20pt; */
+  background-color: rgb(95, 209, 209);
+  color: rgb(174, 53, 36);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(255, 229, 150);
+}
+
+#sub-header {
+  background-color: rgb(95, 209, 209);
+  color: rgb(174, 53, 36);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(255, 229, 150);
+}

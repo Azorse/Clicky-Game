@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "src": "./images/Amy.png"
+  },
+  {
+    "id": 2,
+    "src": "./images/Bender.png"
+  },
+  {
+    "id": 3,
+    "src": "./images/Farnsworth.png"
+  },
+  {
+    "id": 4,
+    "src": "./images/Fry.png"
+  },
+  {
+    "id": 5,
+    "src": "./images/Hermes.png"
+  },
+  {
+    "id": 6,
+    "src": "./images/Kif.png"
+  },
+  {
+    "id": 7,
+    "src": "./images/Leela.png"
+  },
+  {
+    "id": 8,
+    "src": "./images/Mom.png"
+  },
+  {
+    "id": 9,
+    "src": "./images/Nibbler.png"
+  },
+  {
+    "id": 10,
+    "src": "./images/Scruffy.png"
+  },
+  {
+    "id": 11,
+    "src": "./images/Zapp.png"
+  },
+  {
+    "id": 12,
+    "src": "./images/Zoidberg.png"
+  }
+]

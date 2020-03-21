@@ -1,0 +1,20 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 36px;
+  width: 36px;
+  border: none;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.imageDiv {
+  margin: 20px auto;
+}
+
+.footer {
+  background-color: rgb(174, 53, 36);
+}
+
